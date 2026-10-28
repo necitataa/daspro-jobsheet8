@@ -17,6 +17,20 @@ public class triangle23 {
             System.out.println();
             i++;
         }
-        sc.close();
+
+        System.out.println();
+
+        i = n;
+        while (i > 0) {
+            int j = 0;
+            while (j < i 5) {
+                System.out.print("*");
+                j++;
+        }
+        System.out.println();
+        i--;
+    }
+    sc.close();
+
     }
 }
